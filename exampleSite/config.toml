@@ -1,4 +1,4 @@
-baseURL = "https://aemiej.netlify.com/"
+baseURL = "https://aemiej.netlify.app/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
