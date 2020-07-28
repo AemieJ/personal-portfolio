@@ -34,13 +34,8 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
-[params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+image = "images/banner/illustration.png"
+title = "Hi, I'm Aemie Jariwala. <br> I fancy minimalistic designs."
 [params.cta.button]
 enable = true
 label = "Visit Here"
@@ -63,7 +58,7 @@ link = "plugins/search/search.js"
 enable = true
 preloader = ""
 [params.search]
-enable = true
+enable = false
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
