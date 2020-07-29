@@ -7,6 +7,9 @@ tools:
     link: https://git-scm.com/
 - title: Editor Tools
   tool:
+  - name: Spyder
+    image: "/spyder.png"
+    link: https://www.spyder-ide.org/
   - name: PyCharm
     image: "/pycharm.png"
     link: https://www.jetbrains.com/pycharm/
