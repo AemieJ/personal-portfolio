@@ -37,7 +37,7 @@ tools:
     link: https://www.netlify.com
   - name: Anaconda
     image: "/anaconda.png"
-    link: https://www.anaconda.com/
+    link: https://www.anaconda.com
 - title: Editor Tools
   tool:
   - name: Visual Studio Code
