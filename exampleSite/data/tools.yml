@@ -42,6 +42,9 @@ tools:
   - name: Canva
     image: "/canva.png"
     link: https://www.canva.com/
+  - name: Codepen
+    image: "/codepen.png"
+    link: https://codepen.io/
   - name: Adobe Illustrator
     image: "/images/tools/illustrator.png"
     link: https://www.adobe.com/products/illustrator.html
