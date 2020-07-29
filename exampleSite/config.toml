@@ -5,11 +5,21 @@ paginate = "3"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "AemieJ - Portfolio"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.footer]]
+URL = "tools"
+name = "Tools"
+weight = 2
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
+[[menu.main]]
+name = "Resume"
+url = "/resume.pdf"
+weight = 3
+[[menu.main]]
 URL = "tools"
 name = "Tools"
 weight = 2
@@ -17,10 +27,6 @@ weight = 2
 URL = "author/aemie-jariwala"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "Tools"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -67,6 +73,3 @@ link = "https://github.com/AemieJ"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/aemie-jariwala-36a682179/"
-
-[markup.goldmark.renderer]
-unsafe= true
