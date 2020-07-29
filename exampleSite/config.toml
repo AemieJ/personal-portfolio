@@ -1,7 +1,7 @@
 baseURL = "https://aemiej.netlify.app/"
 disqusShortname = ""
 languageCode = "en-us"
-paginate = "5"
+paginate = "3"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "AemieJ - Portfolio"
@@ -34,7 +34,7 @@ home = "Home"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.png"
-title = "Hi, I'm Aemie Jariwala. <br> I fancy minimalistic designs."
+title = "Hi, I'm Aemie Jariwala. <br> I fancy <a href='#'>minimalistic</a> designs."
 [params.cta.button]
 enable = true
 label = "Visit Here"
@@ -67,3 +67,6 @@ link = "https://github.com/AemieJ"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/aemie-jariwala-36a682179/"
+
+[markup.goldmark.renderer]
+unsafe= true
