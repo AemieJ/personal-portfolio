@@ -11,15 +11,15 @@ tools:
   - name: Antora
     image: "/antora.png"
     link: https://antora.org/
-  - name: Metamask
-    image: "/metamask.png"
-    link: https://metamask.io/
-  - name: Algolia Search
-    image: "/algolia-bg.png"
-    link: https://www.algolia.com/
   - name: Docker Hub
     image: "/dockerhub.png"
     link: https://hub.docker.com/
+  - name: Algolia Search
+    image: "/algolia-bg.png"
+    link: https://www.algolia.com/
+  - name: Metamask
+    image: "/metamask.png"
+    link: https://metamask.io/
   - name: Truffle
     image: "/truffle.png"
     link: https://www.trufflesuite.com/
