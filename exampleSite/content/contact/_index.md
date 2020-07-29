@@ -1,8 +1,7 @@
 ---
-title: "Contact Us"
-draft: false
-description : "this is meta description"
-image: "images/contact.svg"
----
+title: Ping Me!
+description: ''
+image: images/contact.svg
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+---
+If interested in creating projects or brainstorming on ideas and designs, ping me.
