@@ -5,9 +5,9 @@ tools:
   - name: Git
     image: "/images/tools/Git.png"
     link: https://git-scm.com/
-  - name: Hugo
-    image: "/hugo.png"
-    link: https://gohugo.io
+  - name: Firebase
+    image: "/firebase.png"
+    link: https://firebase.google.com/
   - name: Antora
     image: "/antora.png"
     link: https://antora.org/
@@ -23,9 +23,9 @@ tools:
   - name: Truffle
     image: "/truffle.png"
     link: https://www.trufflesuite.com/
-  - name: Firebase
-    image: "/firebase.png"
-    link: https://firebase.google.com/
+  - name: Hugo
+    image: "/hugo.png"
+    link: https://gohugo.io
   - name: Heroku
     image: "/heroku.png"
     link: https://www.heroku.com/
@@ -34,7 +34,7 @@ tools:
     link: https://forestry.io/
   - name: Netlify
     image: "/netlify.png"
-    link: https://www.netlify.com/
+    link: https://www.netlify.com
   - name: Anaconda
     image: "/anaconda.png"
     link: https://www.anaconda.com/
