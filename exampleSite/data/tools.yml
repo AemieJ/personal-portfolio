@@ -1,5 +1,10 @@
 ---
 tools:
+- title: Dev Tools
+  tool:
+  - name: Git
+    image: "/images/tools/Git.png"
+    link: https://git-scm.com/
 - title: Editor Tools
   tool:
   - name: Notepad ++
@@ -13,23 +18,9 @@ tools:
     link: https://code.visualstudio.com/
 - title: Design Tools
   tool:
-  - name: Sketch
-    image: "/images/tools/sketch.png"
-    link: https://www.sketch.com/
   - name: Adobe Illustrator
     image: "/images/tools/illustrator.png"
     link: https://www.adobe.com/products/illustrator.html
-  - name: Invision
-    image: "/images/tools/invision.png"
-    link: https://www.invisionapp.com/studio
-  - name: Adobe XD
-    image: "/images/tools/xd.png"
-    link: https://www.adobe.com/products/xd.html
   - name: Figma
     image: "/images/tools/figma.png"
     link: https://www.figma.com/
-- title: Dev Tools
-  tool:
-  - name: Git
-    image: "/images/tools/Git.png"
-    link: https://git-scm.com/
