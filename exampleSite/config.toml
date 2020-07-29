@@ -22,7 +22,7 @@ weight = 1
 [[menu.main]]
 URL = "/resume.pdf"
 name = "Resume"
-weight = "2"
+weight = "3"
 [[menu.main]]
 URL = "tools"
 name = "Tools"
