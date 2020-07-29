@@ -7,6 +7,9 @@ tools:
     link: https://git-scm.com/
 - title: Editor Tools
   tool:
+  - name: PyCharm
+    image: "/pycharm.png"
+    link: https://www.jetbrains.com/pycharm/
   - name: VIm
     image: "/vim.png"
     link: https://www.vim.org/
