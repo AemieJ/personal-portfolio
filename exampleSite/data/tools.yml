@@ -36,12 +36,12 @@ tools:
     link: https://notepad-plus-plus.org/
 - title: Design Tools
   tool:
-  - name: Canva
-    image: "/canva.png"
-    link: https://www.canva.com/
   - name: Adobe Photoshop
     link: https://www.adobe.com/in/products/photoshop.html?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-R4b-8qpGpQThOB24-H-yDvClpSQaylrFyR5uhHcGFmjKFt5yj8sBgaAmmrEALw_wcB&sdid=SGDJMMG3&mv=search&ef_id=Cj0KCQjwvIT5BRCqARIsAAwwD-R4b-8qpGpQThOB24-H-yDvClpSQaylrFyR5uhHcGFmjKFt5yj8sBgaAmmrEALw_wcB:G:s&s_kwcid=AL!3085!3!444587836691!e!!
     image: "/photoshop.png"
+  - name: Canva
+    image: "/canva.png"
+    link: https://www.canva.com/
   - name: Adobe Illustrator
     image: "/images/tools/illustrator.png"
     link: https://www.adobe.com/products/illustrator.html
