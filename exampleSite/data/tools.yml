@@ -7,6 +7,9 @@ tools:
     link: https://git-scm.com/
 - title: Editor Tools
   tool:
+  - name: IntelliJ
+    image: "/intellij.png"
+    link: https://www.jetbrains.com/idea/
   - name: Android Studio
     image: "/android-studio.png"
     link: https://developer.android.com/studio/?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-Rvv_y1Y6tehOaFAqd4nSGHDxBWF-emP3lftQOuu_hJXRI_DXPfT4gaAhujEALw_wcB&gclsrc=aw.ds
