@@ -1,5 +1,5 @@
 baseURL = "https://aemiej.netlify.app/"
-disqusShortname = ""
+disqusShortname = "Personal Portfolio filled with work and blog showcase."
 languageCode = "en-us"
 paginate = "3"
 summaryLength = "10"
