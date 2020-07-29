@@ -10,27 +10,27 @@ tools:
   - name: Visual Studio Code
     image: "/images/tools/vs-code.png"
     link: https://code.visualstudio.com/
+  - name: Sublime Text
+    image: "/images/tools/sublime.png"
+    link: https://www.sublimetext.com/
   - name: Spyder
     image: "/spyder.png"
     link: https://www.spyder-ide.org/
   - name: IntelliJ
     image: "/intellij.png"
     link: https://www.jetbrains.com/idea/
-  - name: Atom
-    image: "/images/tools/Atom.png"
-    link: https://atom.io/
-  - name: Sublime Text
-    image: "/images/tools/sublime.png"
-    link: https://www.sublimetext.com/
-  - name: Android Studio
-    image: "/android-studio.png"
-    link: https://developer.android.com/studio/?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-Rvv_y1Y6tehOaFAqd4nSGHDxBWF-emP3lftQOuu_hJXRI_DXPfT4gaAhujEALw_wcB&gclsrc=aw.ds
   - name: PyCharm
     image: "/pycharm.png"
     link: https://www.jetbrains.com/pycharm/
+  - name: Android Studio
+    image: "/android-studio.png"
+    link: https://developer.android.com/studio/?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-Rvv_y1Y6tehOaFAqd4nSGHDxBWF-emP3lftQOuu_hJXRI_DXPfT4gaAhujEALw_wcB&gclsrc=aw.ds
   - name: VIm
     image: "/vim.png"
     link: https://www.vim.org/
+  - name: Atom
+    image: "/images/tools/Atom.png"
+    link: https://atom.io/
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
