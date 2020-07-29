@@ -11,30 +11,30 @@ tools:
   - name: Antora
     image: "/antora.png"
     link: https://antora.org/
+  - name: Metamask
+    image: "/metamask.png"
+    link: https://metamask.io/
   - name: Algolia Search
     image: "/algolia-bg.png"
     link: https://www.algolia.com/
   - name: Docker Hub
     image: "/dockerhub.png"
     link: https://hub.docker.com/
-  - name: Metamask
-    image: "/metamask.png"
-    link: https://metamask.io/
   - name: Truffle
     image: "/truffle.png"
     link: https://www.trufflesuite.com/
-  - name: Netlify
-    image: "/netlify.png"
-    link: https://www.netlify.com/
+  - name: Firebase
+    image: "/firebase.png"
+    link: https://firebase.google.com/
   - name: Heroku
     image: "/heroku.png"
     link: https://www.heroku.com/
   - name: Forestry.io
     image: "/forestry-io.png"
     link: https://forestry.io/
-  - name: Firebase
-    image: "/firebase.png"
-    link: https://firebase.google.com/
+  - name: Netlify
+    image: "/netlify.png"
+    link: https://www.netlify.com/
   - name: Anaconda
     image: "/anaconda.png"
     link: https://www.anaconda.com/
