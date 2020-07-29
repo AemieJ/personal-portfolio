@@ -7,7 +7,7 @@ tools:
     link: https://git-scm.com/
   - name: Hugo
     image: "/hugo.png"
-    link: https://gohugo.io/
+    link: https://gohugo.io
   - name: Antora
     image: "/antora.png"
     link: https://antora.org/
