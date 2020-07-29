@@ -11,15 +11,15 @@ name = "Contact"
 weight = 1
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Tools"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "author/aemie-jariwala"
+name = "About"
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "tools"
+name = "Tools"
 weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
@@ -31,7 +31,6 @@ description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.png"
@@ -61,13 +60,10 @@ preloader = ""
 enable = false
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
+link = "https://www.facebook.com/aemie.jariwala"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/AemieJ"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/aemie-jariwala-36a682179/"
