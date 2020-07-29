@@ -22,9 +22,6 @@ tools:
   - name: PyCharm
     image: "/pycharm.png"
     link: https://www.jetbrains.com/pycharm/
-  - name: Android Studio
-    image: "/android-studio.png"
-    link: https://developer.android.com/studio/?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-Rvv_y1Y6tehOaFAqd4nSGHDxBWF-emP3lftQOuu_hJXRI_DXPfT4gaAhujEALw_wcB&gclsrc=aw.ds
   - name: VIm
     image: "/vim.png"
     link: https://www.vim.org/
@@ -34,6 +31,9 @@ tools:
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
+  - name: Android Studio
+    image: "/android-studio.png"
+    link: https://developer.android.com/studio/?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-Rvv_y1Y6tehOaFAqd4nSGHDxBWF-emP3lftQOuu_hJXRI_DXPfT4gaAhujEALw_wcB&gclsrc=aw.ds
 - title: Design Tools
   tool:
   - name: Adobe Photoshop
