@@ -13,11 +13,12 @@ sections:
   - post
 - type: directory
   path: exampleSite/data
-  label: Work
+  label: Works
   create: documents
   match: "**/*"
   new_doc_ext: yml
   templates:
+  - work
   - tools
 - type: directory
   path: exampleSite/content/author
