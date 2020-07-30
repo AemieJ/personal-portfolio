@@ -24,7 +24,7 @@ URL = "tools"
 name = "Tools"
 weight = 2
 [[menu.main]]
-URL = "/resume.pdf"
+URL = "/resume-aemie.pdf"
 name = "Resume"
 weight = "3"
 [outputs]
