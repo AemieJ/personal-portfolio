@@ -8,10 +8,18 @@ title = "AemieJ - Portfolio"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
+URL = "tools"
+name = "Tools"
+weight = 2
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
+[[menu.main]]
+URL = "/resume-aemie.pdf"
+name = "Resume"
+weight = 3
+[[menu.main]]
 URL = "tools"
 name = "Tools"
 weight = 2
@@ -19,14 +27,6 @@ weight = 2
 URL = "author/aemie-jariwala"
 name = "About"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "Tools"
-weight = 2
-[[menu.main]]
-URL = "/resume-aemie.pdf"
-name = "Resume"
-weight = "3"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
