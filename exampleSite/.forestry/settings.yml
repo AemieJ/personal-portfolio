@@ -13,7 +13,7 @@ sections:
   - post
 - type: directory
   path: exampleSite/data
-  label: Tools
+  label: Work
   create: documents
   match: "**/*"
   new_doc_ext: yml
