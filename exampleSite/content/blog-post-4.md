@@ -1,6 +1,5 @@
 +++
 title = "Goals & Timelines"
-image = "/images/post/post-2.jpg"
 author = "Aemie Jariwala"
 date = 2020-07-08
 categories = ["Outreachy"]

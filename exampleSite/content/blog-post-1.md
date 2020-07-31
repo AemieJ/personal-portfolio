@@ -1,6 +1,5 @@
 +++
 title = "A Little About Me!"
-image = "/images/post/post-1.jpg"
 author = "Aemie Jariwala"
 date = 2020-05-19
 categories = ["Outreachy"]

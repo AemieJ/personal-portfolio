@@ -1,6 +1,5 @@
 +++
 title = "Post for the Audience"
-image = "/images/post/post-3.jpg"
 author = "Aemie Jariwala"
 date = 2020-06-23
 categories = ["Outreachy"]

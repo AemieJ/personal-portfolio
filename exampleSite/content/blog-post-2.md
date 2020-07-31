@@ -1,6 +1,5 @@
 +++
 title = "Struggles of Open Source"
-image = "/images/post/post-2.jpg"
 author = "Aemie Jariwala"
 date = 2020-06-03
 categories = ["Outreachy"]
