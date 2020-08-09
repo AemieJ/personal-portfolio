@@ -14,6 +14,8 @@ When creating my initial timeline, I was unaware of the fact that during my inte
 
 I have accomplished a couple of tasks I will display through an infographic. These issues and layouts were either raised by me or another contributor however I focused on resolving them as much as possible with a minimum amount of code. 
 
+![Inforgraph-Timeline](/images/post/timeline.png)
+
 
 The task-related to search design implementation for smaller screen width took longer than I had expected. Let me walk you through the entire process of resolving the issue – 
 
