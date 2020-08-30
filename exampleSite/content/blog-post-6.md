@@ -8,7 +8,7 @@ type = "post"
 +++
 
 ### About me
-Aemie, a tech enthusiast, open source developer and a DSC community lead. To connect with me, I am present on various including [github](https://github.com/AemieJ), [linkedIn](https://www.linkedin.com/in/aemie-jariwala-36a682179/) and [dev.to](https://dev.to/aemiej).
+Aemie, a tech enthusiast, open source developer and a DSC community lead. To connect with me, I am present on various platforms including [github](https://github.com/AemieJ), [linkedIn](https://www.linkedin.com/in/aemie-jariwala-36a682179/) and [dev.to](https://dev.to/aemiej).
 
 The year 2020, for me, has been a rough ride of ups and downs, acceptance, and rejections. Though, I have learned from each step I went through. Currently, the most fun experience to date that has occurred is Outreachy for me. In this blog, I will cover the process of how I applied to Outreachy, how  I chose Apache to contribute, and my journey as an Outreachy intern. It is going to be quite long so I hope you'll patient enough to read through.
 
