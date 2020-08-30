@@ -1,4 +1,5 @@
 +++
+image = "/images/post/outreachy.png"
 title = "Outreachy - The process & the journey"
 author = "Aemie Jariwala"
 date = 2020-08-30
